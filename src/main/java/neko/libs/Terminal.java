@@ -1,4 +1,4 @@
-package neko.protect.libs;
+package neko.libs;
 
 public class Terminal {
 
